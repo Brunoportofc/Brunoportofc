@@ -1,5 +1,9 @@
+
+
 # 💫 About Me:
-👨‍💻 Estudante de Desenvolvimento Back-End em Python 🐍<br><br>📚 Apaixonado por código limpo, resolução de problemas e projetos de código aberto. Sempre em busca de aprender e aprimorar minhas habilidades de programação.<br><br>💡 Adoro transformar linhas de código em soluções eficientes e escaláveis.<br><br>🌍 Conecte-se comigo e vamos desenvolver juntos!<br><br>📧 Contato: portob162@gmail.com<br><br>-----------------------------------------ENGLISH----------------------------------------------<br><br>👨‍💻 Back-End Development Student in Python 🐍<br><br>📚 Passionate about clean code, problem-solving, and open-source projects. Always on the lookout to learn and enhance my programming skills.<br><br>💡 I love turning lines of code into efficient and scalable solutions.<br><br>🌍 Connect with me, and let's code together!<br><br>📧 Contact: portob162@gmail.com>
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&left=true&left=true&width=600&lines=Hi+there+👋,+I+am+Bruno+Porto;+Welcome+to+My+Profile!;)](https://git.io/typing-svg)
+<br>👨‍💻 Back-End Development Student in Python 🐍<br><br>📚 Passionate about clean code, problem-solving, and open-source projects. Always on the lookout to learn and enhance my programming skills.<br><br>💡 I love turning lines of code into efficient and scalable solutions.<br><br>🌍 Connect with me, and let's code together!<br><br>📧 Contact: portob162@gmail.com>
 
 <div> 
  <img alig="right" alt="lofi" src="https://i.giphy.com/media/7eUfR3hhYgfdFC3sw1/giphy.webp">
@@ -19,3 +23,9 @@
 [![](https://visitcount.itsvg.in/api?id=Brunoportofc&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+<!-- [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
