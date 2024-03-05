@@ -3,7 +3,7 @@
 # 💫 About Me:
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&left=true&left=true&width=600&lines=Hi+there+👋,+I+am+Bruno+Porto;+Welcome+to+My+Profile!;)](https://git.io/typing-svg)
-<br>👨‍💻 Back-End Development Student in Python 🐍<br><br>📚 Passionate about clean code, problem-solving, and open-source projects. Always on the lookout to learn and enhance my programming skills.<br><br>💡 I love turning lines of code into efficient and scalable solutions.<br><br>🌍 Connect with me, and let's code together!<br><br>📧 Contact: portob162@gmail.com>
+<br>👨‍💻 WEB Development Student in Python 🐍<br><br>📚 Passionate about clean code, problem-solving, and open-source projects. Always on the lookout to learn and enhance my programming skills.<br><br>💡 I love turning lines of code into efficient and scalable solutions.<br><br>🌍 Connect with me, and let's code together!<br><br>📧 Contact: portob162@gmail.com>
 
 <div> 
  <img alig="right" alt="lofi" src="https://i.giphy.com/media/7eUfR3hhYgfdFC3sw1/giphy.webp">
