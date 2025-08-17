@@ -6,7 +6,7 @@
 <br>👨‍💻 WEB Development Student in Python 🐍<br><br>📚 Passionate about clean code, problem-solving, and open-source projects. Always on the lookout to learn and enhance my programming skills.<br><br>💡 I love turning lines of code into efficient and scalable solutions.<br><br>🌍 Connect with me, and let's code together!<br><br>📧 Contact: portob162@gmail.com>
 
 <div> 
- <img alig="right" alt="lofi" src="https://i.giphy.com/media/7eUfR3hhYgfdFC3sw1/giphy.webp">
+ <img alig="right" alt="lofi" src="[https://i.giphy.com/media/7eUfR3hhYgfdFC3sw1/giphy.webp](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJxNzl0end5YTN2MzJxZHBxbGhreTM3eG13OWhydHY2eDlveHNjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif)">
 </div> 
 
 ## 🌐 Socials:
